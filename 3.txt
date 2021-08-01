@@ -1,0 +1,10 @@
+3. Setiap fase pengembangan produk dalam Scrum akan dikenal dengan sebutan
+Sprint, dimana setiap Sprint akan kembali dibagi menjadi beberapa event yang
+lebih kecil. Event-event ini sengaja dirancang untuk memastikan adanya
+transparansi pada setiap proses pengerjaan serta hasil yang diperoleh.
+Konsekuensi dari Scrum Event yang tidak berjalan dengan baik akan
+menghilangkan kesempatan tim untuk belajar dan beradaptasi dari kesalahan
+yang dibuat. Selain untuk memastikan adanya transparansi event ini akan
+membentuk suatu habit positif diantara anggota tim dan mengurangi meeting
+yang tidak efektif. Berikut dijelaskan dalam gambar fig 6 kerangka dari event
+yang terlibat dalam Scrum

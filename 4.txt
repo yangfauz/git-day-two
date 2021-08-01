@@ -1,0 +1,3 @@
+VCS memungkinkan kita untuk melacak sejarah
+dari perubahan yang sudah kita lakukan. Kita dapat menggunakan VCS sebagai individu
+atau sebagai tim untuk berkolaborasi mengerjakan sebuah proyek.
