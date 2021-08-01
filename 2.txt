@@ -1,0 +1,8 @@
+-Product Owner
+Secara garis besar product owner merupakan peran bertanggung jawab untuk memaksimalkan potensi bisnis dari produk yang sedang dikembangkan. Peran ini nantinya akan diambil oleh individu tertentu. Peran ini merupakan satu-satunya peran yang memiliki tanggung jawab untuk mengelola Product Backlog.
+
+-Development Team
+Seperti penyebutannya development tim adalah seluruh anggota tim yang tergabung dan bekerja untuk mengembangkan produk pada tiap sprint yang akan dijalankan. Secara umum tidak ada ketentuan khusus terkait dengan keahlian yang harus dikuasai oleh masing-masing anggota tim, menyesuaikan dengan domain produk yang sedang dikembangkan.
+
+-Scrum Master
+Seperti penyebutannya Scrum Master bertanggung jawab untuk memastikan jalannya Scrum pada suatu tim maupun organisasi. Hal ini dilakukan dengan membantu setiap orang yang terlibat untuk memahami teori dan penerapan dari kerangka Scrum. Selain itu Scrum Master juga bertanggung jawab untuk memastikan kenaikan efektivitas dan produktivitas dari sebuah tim melalui proses evaluasi dari penerapan kerangka Scrum.
