@@ -1,0 +1,3 @@
+Product owner : mempresentasikan permintaan user dan stakeholder, membuat skala proritas, menjembatani developer dan user
+developer : meneksekusi permintaan product owner, membuat spesifikasi teknis, QA dan QC
+SCRUM master : memastikan dan mengawasi jalannya tim SCRUM
